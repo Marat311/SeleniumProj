@@ -1,4 +1,4 @@
-package com.OfficeHoures;
+package com.OfficeHoures.day1_Locators;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

@@ -1,4 +1,4 @@
-package com.OfficeHoures;
+package com.OfficeHoures.day1_Locators;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
