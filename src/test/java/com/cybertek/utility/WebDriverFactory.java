@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+//this ain't no test class so we can not extend testBase
 public class WebDriverFactory {
 
     public static WebDriver getDriver(String browsedName){
